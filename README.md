@@ -1,5 +1,4 @@
-# Picture-Generation
-# Genetic Algorithm
+# Picture-Generation using Genetic Algorithm
 Team members: 
 
 Vaibhavi Khamar (001400149)
